@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LevelUP Games**
 
-- 🌱 I’m currently learning **Ruby, JavaScript**
+- 🌱 I’m currently learning **Ruby, Vanilla JavaScript, Node JS & React**
 
 - 📫 How to reach me **anthony.hadwan@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Discord bot!**
 
-- 🌱 I’m currently learning **NodeJS and React**
+- 🌱 I’m currently learning **NodeJS, React and some CS**
 
 - 📫 How to reach me **anthony.hadwan@hec.edu**
 

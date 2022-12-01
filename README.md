@@ -2,4 +2,4 @@
 
 
 - 🌱 I’m currently learning some **React and NextJS while practicing algorithms and data structures on FreeCode Camp!**
-- 📫 How to reach me **anthony.hadwan@gmail.com**
+

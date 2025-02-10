@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthony!</h1>
+<h1 align="center">Hi, I'm Anthony!</h1>
 
 
 - 🌱 I’m currently going through **Harvards' CS50 and doing some JS and React**!
